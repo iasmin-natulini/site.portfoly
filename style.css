@@ -43,6 +43,9 @@ section{
 .serena{
     display: flex;
 }
+.blair{
+    display: flex;
+}
 section h2{
     color:black;
     font-size: 1.8em;
