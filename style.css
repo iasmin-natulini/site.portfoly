@@ -52,6 +52,9 @@ section{
 .nate{
     display:flex
 }
+.dan{
+    display: flex;
+}
 section h2{
     color:black;
     font-size: 1.8em;
